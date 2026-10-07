@@ -1,0 +1,24 @@
+# Locations of the input datasets and of the outputs. The only place where paths are set.
+# Relative paths are resolved from the folder that contains this file.
+# input_dir can also be set with the environment variable TTF_INPUT_DIR.
+
+input_dir: data/input        # original datasets (not included in this package; see README, "Input data")
+derived_dir: data/derived    # derived tables and rasters (read and written by the scripts)
+figures_dir: figures         # figures written by the scripts and notebooks
+
+# Input files, relative to input_dir
+inputs:
+  population: Geotiff/population/GlobPOP_Count_30arc_2020_I32.tiff
+  tt_gfc_50: Latest/JRC_GFC2020_V2_mean_50_patch_motorized_sum_masked_3h.tif
+  # figure_S1_canopy_threshold.py reads these two from <input_dir>/Latest/ by file name:
+  #   JRC_GFC2020_V2_mean_25_patch_motorized_sum_masked_3h.tif
+  #   JRC_GFC2020_V2_mean_75_patch_area_1.0_motorized_sum_masked_3h.tif
+  gdp_total_nc: Geotiff/gdp/GDP_PPP_30arcsec_v3.nc
+  gdp_pc_nc: Geotiff/gdp/GDP_per_capita_PPP_1990_2015_v2.nc
+  koppen_beck_1km: Geotiff/climate/Beck_KG_V1/Beck_KG_V1_present_0p0083.tif
+  worldclim_bio12: Geotiff/climate/wc2.1_5m_bio_12.tif
+  ghs_smod: Geotiff/urbanisation/GHS_SMOD_E2020_GLOBE_R2023A_4326_30ss_V2_0.tif
+
+# Inputs shipped with this package, relative to the package root
+package_inputs:
+  macroregions: data/macroregions/world-custom_regions_r.shp   # 17 UN macroregions (field custom_reg)

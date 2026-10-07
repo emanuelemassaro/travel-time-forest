@@ -1,0 +1,10 @@
+# Too large for GitHub (> 100 MB): deposit on Zenodo
+data/derived/travel_socio_eco_class.csv
+# Original datasets (not redistributed) and large intermediate rasters written by the heavy steps
+data/input/
+data/derived/rasters/GDP_*.tif
+data/derived/rasters/koppen_maingroup_beck1km.tif
+figures/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

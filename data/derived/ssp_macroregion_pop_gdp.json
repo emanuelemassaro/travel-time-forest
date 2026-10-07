@@ -1,0 +1,206 @@
+{
+ "pop|SSP1|Southern Asia": {
+  "2050": 2314.5137400000003
+ },
+ "pop|SSP1|Southern Europe": {
+  "2050": 148.58847500000002
+ },
+ "pop|SSP1|Northern Africa": {
+  "2050": 348.25509200000005
+ },
+ "pop|SSP1|Middle Africa": {
+  "2050": 342.09922
+ },
+ "pop|SSP1|South America": {
+  "2050": 717.117073
+ },
+ "pop|SSP1|Western Asia": {
+  "2050": 377.43027400000005
+ },
+ "pop|SSP1|Oceania": {
+  "2050": 54.633193
+ },
+ "pop|SSP1|Western Europe": {
+  "2050": 200.92874600000007
+ },
+ "pop|SSP1|Eastern Europe": {
+  "2050": 268.47565900000006
+ },
+ "pop|SSP1|Western Africa": {
+  "2050": 690.256162
+ },
+ "pop|SSP1|Southern Africa": {
+  "2050": 79.652733
+ },
+ "pop|SSP1|South-Eastern Asia": {
+  "2050": 748.8037489999998
+ },
+ "pop|SSP1|Eastern Africa": {
+  "2050": 736.9530099999998
+ },
+ "pop|SSP1|Northern America": {
+  "2050": 419.34750099999997
+ },
+ "pop|SSP1|Eastern Asia": {
+  "2050": 1536.750816
+ },
+ "pop|SSP1|Northern Europe": {
+  "2050": 113.730688
+ },
+ "pop|SSP1|Central Asia": {
+  "2050": 96.75509500000001
+ },
+ "pop|SSP3|Southern Asia": {
+  "2050": 2564.557139
+ },
+ "pop|SSP3|Southern Europe": {
+  "2050": 143.30008800000002
+ },
+ "pop|SSP3|Northern Africa": {
+  "2050": 395.12692200000004
+ },
+ "pop|SSP3|Middle Africa": {
+  "2050": 428.89522600000015
+ },
+ "pop|SSP3|South America": {
+  "2050": 778.2658230000001
+ },
+ "pop|SSP3|Western Asia": {
+  "2050": 415.56601399999994
+ },
+ "pop|SSP3|Oceania": {
+  "2050": 56.44446400000001
+ },
+ "pop|SSP3|Western Europe": {
+  "2050": 197.19505600000002
+ },
+ "pop|SSP3|Eastern Europe": {
+  "2050": 264.611864
+ },
+ "pop|SSP3|Western Africa": {
+  "2050": 856.262287
+ },
+ "pop|SSP3|Southern Africa": {
+  "2050": 80.177497
+ },
+ "pop|SSP3|South-Eastern Asia": {
+  "2050": 809.889158
+ },
+ "pop|SSP3|Eastern Africa": {
+  "2050": 885.628761
+ },
+ "pop|SSP3|Northern America": {
+  "2050": 414.847603
+ },
+ "pop|SSP3|Eastern Asia": {
+  "2050": 1537.0580479999996
+ },
+ "pop|SSP3|Northern Europe": {
+  "2050": 112.443745
+ },
+ "pop|SSP3|Central Asia": {
+  "2050": 110.130534
+ },
+ "gdp|SSP1|Southern Europe": {
+  "2050": 25919.314907395405
+ },
+ "gdp|SSP1|Northern Africa": {
+  "2050": 29520.912270093006
+ },
+ "gdp|SSP1|Middle Africa": {
+  "2050": 5916.254474890408
+ },
+ "gdp|SSP1|South America": {
+  "2050": 66108.20219395998
+ },
+ "gdp|SSP1|Western Asia": {
+  "2050": 53531.5570929762
+ },
+ "gdp|SSP1|Oceania": {
+  "2050": 10011.01510625102
+ },
+ "gdp|SSP1|Western Europe": {
+  "2050": 42763.892085791005
+ },
+ "gdp|SSP1|Southern Asia": {
+  "2050": 153739.81347101074
+ },
+ "gdp|SSP1|Eastern Europe": {
+  "2050": 38206.5686475258
+ },
+ "gdp|SSP1|Western Africa": {
+  "2050": 20886.644983182996
+ },
+ "gdp|SSP1|Southern Africa": {
+  "2050": 5822.7534327088
+ },
+ "gdp|SSP1|South-Eastern Asia": {
+  "2050": 73383.0560175494
+ },
+ "gdp|SSP1|Eastern Africa": {
+  "2050": 18443.47833181506
+ },
+ "gdp|SSP1|Northern America": {
+  "2050": 111147.44325996001
+ },
+ "gdp|SSP1|Eastern Asia": {
+  "2050": 218879.68097137907
+ },
+ "gdp|SSP1|Northern Europe": {
+  "2050": 27307.975248433002
+ },
+ "gdp|SSP1|Central Asia": {
+  "2050": 7715.573707178
+ },
+ "gdp|SSP3|Southern Europe": {
+  "2050": 21122.262427602753
+ },
+ "gdp|SSP3|Northern Africa": {
+  "2050": 20761.885682448
+ },
+ "gdp|SSP3|Middle Africa": {
+  "2050": 4633.461488125759
+ },
+ "gdp|SSP3|South America": {
+  "2050": 53605.99174786674
+ },
+ "gdp|SSP3|Western Asia": {
+  "2050": 47300.23968151979
+ },
+ "gdp|SSP3|Oceania": {
+  "2050": 7551.741466504242
+ },
+ "gdp|SSP3|Western Europe": {
+  "2050": 35332.5961866242
+ },
+ "gdp|SSP3|Southern Asia": {
+  "2050": 116297.71470602052
+ },
+ "gdp|SSP3|Eastern Europe": {
+  "2050": 31084.1841979658
+ },
+ "gdp|SSP3|Western Africa": {
+  "2050": 17048.6510760974
+ },
+ "gdp|SSP3|Southern Africa": {
+  "2050": 4868.0721905307
+ },
+ "gdp|SSP3|South-Eastern Asia": {
+  "2050": 58079.63998972984
+ },
+ "gdp|SSP3|Eastern Africa": {
+  "2050": 13249.86662219119
+ },
+ "gdp|SSP3|Northern America": {
+  "2050": 93798.25124356
+ },
+ "gdp|SSP3|Eastern Asia": {
+  "2050": 172901.6320100655
+ },
+ "gdp|SSP3|Northern Europe": {
+  "2050": 21845.2014565719
+ },
+ "gdp|SSP3|Central Asia": {
+  "2050": 6237.328127622
+ }
+}

@@ -1,0 +1,18 @@
+region,mean_travel_time_min_unweighted,continent
+Western Europe,2.2069314138659433,Europe
+Southern Europe,4.10228309872204,Europe
+South-Eastern Asia,7.97291985178579,Asia
+Middle Africa,10.650032995717236,Africa
+Northern Europe,11.987498417901987,Europe
+Eastern Europe,12.988956537571571,Europe
+South America,15.511674525306493,America
+Northern America,19.10831626889556,America
+Eastern Africa,25.208137518273933,Africa
+Western Africa,31.980955744156574,Africa
+Oceania,33.82894795532278,Oceania
+Eastern Asia,34.07638074010629,Asia
+Southern Asia,47.29871785043505,Asia
+Western Asia,48.76610682529043,Asia
+Southern Africa,56.82008720111092,Africa
+Northern Africa,61.67633562535033,Africa
+Central Asia,85.18609146633446,Asia

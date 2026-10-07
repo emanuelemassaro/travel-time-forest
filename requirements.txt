@@ -1,0 +1,24 @@
+# Python 3.9.6 (macOS, Apple silicon). Versions installed in the environment used for the last runs
+# (August-October 2026). GDAL 3.9.3 comes with the rasterio wheel.
+numpy==2.0.2
+pandas==2.3.3
+scipy==1.13.1
+rasterio==1.4.3
+geopandas==1.0.1
+pyogrio==0.11.1
+shapely==2.0.7
+pyproj==3.6.1
+matplotlib==3.9.4
+cartopy==0.23.0
+palettable==3.3.3
+seaborn==0.13.2
+scikit-image==0.24.0
+PyYAML==6.0.3
+# convert_netcdf_to_geotiff.py only (not installed in that environment; version used in 2025 unknown)
+xarray==2024.7.0
+netCDF4==1.7.2
+rioxarray
+# notebooks
+jupyter
+nbclient==0.10.2
+ipykernel==6.31.0
