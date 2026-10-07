@@ -1,7 +1,7 @@
 # Global travel time to forest: code and derived data
 
 Code and derived data for the manuscript *Global travel time to forest: accessibility patterns and socioeconomic
-disparities* (Massaro, Ceccherini, Roebroek, Serkan, Cescatti; submitted to Nature Communications).
+disparities* (Massaro, Ceccherini, Roebroek, Girgin, Cescatti; submitted to Nature Communications).
 Manuscript version used for this package: `Paper/main_preview_August19.tex` (6 October 2026).
 
 The package holds the scripts and notebooks that produce the figures, tables and numbers of that version, the
@@ -83,7 +83,7 @@ versions the code reads. Licences were checked on the providers' pages on 7 Octo
 
 | Dataset | Provider, version | DOI or URL | Licence | Path expected by the code | Used by |
 |---|---|---|---|---|---|
-| Travel time to the nearest forest, motorised, masked at 180 min; forest = GFC2020 V2 canopy cover >= 50%, connected patches | Computed by co-author G. Serkan from GFC2020 V2 and the MAP friction surface 2019 (computation code not in this package, section 6) | not public: `<TO DEPOSIT>` | `<TO CONFIRM>` | `Latest/JRC_GFC2020_V2_mean_50_patch_motorized_sum_masked_3h.tif` | all main results |
+| Travel time to the nearest forest, motorised, masked at 180 min; forest = GFC2020 V2 canopy cover >= 50%, connected patches | Computed by co-author S. Girgin from GFC2020 V2 and the MAP friction surface 2019 (computation code not in this package, section 6) | not public: `<TO DEPOSIT>` | `<TO CONFIRM>` | `Latest/JRC_GFC2020_V2_mean_50_patch_motorized_sum_masked_3h.tif` | all main results |
 | Same, canopy cover >= 25% | as above | `<TO DEPOSIT>` | `<TO CONFIRM>` | `Latest/JRC_GFC2020_V2_mean_25_patch_motorized_sum_masked_3h.tif` | Fig. S1 |
 | Same, canopy cover >= 75%, minimum patch area 1 km2 | as above | `<TO DEPOSIT>` | `<TO CONFIRM>` | `Latest/JRC_GFC2020_V2_mean_75_patch_area_1.0_motorized_sum_masked_3h.tif` | Fig. S1 |
 | Travel time to forest by GFT2020 type (classes 1, 10, 20) | as above, from GFT2020 V0 | `<TO DEPOSIT>` | `<TO CONFIRM>` | `Geotiff/travel_time/V0/JRC_GFT2020_V0_{1,10,20}_mean_50_patch_motorized_sum_masked_3h.tif` | Fig. 4 (script missing) |
